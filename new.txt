@@ -1,0 +1,2 @@
+from terminal created new text file .
+practice1
